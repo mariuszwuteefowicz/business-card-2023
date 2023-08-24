@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../homepage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "business-card-2023"
+	}
+}
