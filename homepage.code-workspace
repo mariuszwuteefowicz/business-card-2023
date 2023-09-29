@@ -2,15 +2,6 @@
 	"folders": [
 		{
 			"path": "../homepage"
-		},
-		{
-			"path": "."
-		},
-		{
-			"path": "../forms"
-		},
-		{
-			"path": "../logic"
 		}
 	],
 	"settings": {
